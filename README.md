@@ -2,7 +2,7 @@
 
 **The next workshop is scheduled for March 7th/8th 2019.**
 
-This is a  2-day course specifically for staff, postdocs or PhD students based in the School of Life Sciences.
+This is a  2-day course specifically for staff, postdocs or PhD students based in the **School of Life Sciences**.
 
 This workshop is suitable for anyone acquiring microscopy data as part of their research, no prior knowledge is necessary or assumed. The course is focused towards the analysis of fluorescence data, but the principles are transferable to any type of imaging. Both theory and practical components will be included. See <https://fiji.sc> for more information about the software we use in this course. 
 
