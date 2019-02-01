@@ -1,4 +1,4 @@
-# **"Introduction to Image Analysis in Fiji"**
+# **Introduction to Image Analysis in Fiji**
 
 **The next workshop is scheduled for March 7th/8th 2019.**
 
