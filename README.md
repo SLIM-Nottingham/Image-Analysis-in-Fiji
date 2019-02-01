@@ -4,15 +4,15 @@
 
 This is a  2-day course specifically for staff, postdocs or PhD students based in the School of Life Sciences.
 
-This workshop is suitable for anyone acquiring microscopy data as part of their research, no prior knowledge is necessary or assumed. The course is focused towards the analysis of fluorescence data, but the principles are transferable to any type of imaging. Both theory and practical components will be included. 
+This workshop is suitable for anyone acquiring microscopy data as part of their research, no prior knowledge is necessary or assumed. The course is focused towards the analysis of fluorescence data, but the principles are transferable to any type of imaging. Both theory and practical components will be included. See <https://fiji.sc> for more information about the software we use in this course. 
 
 # The topics covered are outlined below;-         
 
-Installation, setup, loading and saving images.         
-Image manipulation.          
-Object Segmentation.    
-Quantitative analysis (including colocalisation).
-Places are limited to 15 people, with two trainers.
+* Installation, setup, loading and saving images.         
+* Image manipulation.          
+* Object Segmentation.    
+* Quantitative analysis (including colocalisation).
+* Places are limited to 15 people, with two trainers.
 
 
 # Charges
@@ -23,9 +23,9 @@ There is a charge of £50 to attend this 2-day course.
 
 To register for this workshop please email Chris Gell (christopher.gell@nottingham.ac.uk) with:
 
-Your name and Dept/School
-Your supervisor
-Your UoN project/grant code
+* Your name and Dept/School
+* Your supervisor
+* Your UoN project/grant code
 
 (Places will only be allocated to those who provide the above information and on a first come first served basis.) 
 
