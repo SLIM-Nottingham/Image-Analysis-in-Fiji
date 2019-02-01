@@ -17,11 +17,16 @@ Places are limited to 15 people, with two trainers.
 
 # Charges
 
-There is a charge of £50 to attend this 2-day course. To register for this workshop please email Chris Gell  with:
+There is a charge of £50 to attend this 2-day course. 
 
-Your name and Dept
+# Registration
+
+To register for this workshop please email Chris Gell (christopher.gell@nottingham.ac.uk) with:
+
+Your name and Dept/School
 Your supervisor
 Your UoN project/grant code
+
 (Places will only be allocated to those who provide the above information and on a first come first served basis.) 
 
 # Other information
