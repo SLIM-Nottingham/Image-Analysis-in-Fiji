@@ -10,10 +10,15 @@ Places are limited to 15 people, with two trainers.
 
 # The topics covered are outlined below;-         
 
-* Installation, setup, loading and saving images.         
-* Image manipulation.          
+* Installation, setup, loading and saving images.
+* Viewing multi-demensional images.
+* Image manipulation.
+* Image histograms and segmentation.
+* Handling z-stacks.
+* The ROI manager.
+* Figure preparation (using Inkscape).
 * Object Segmentation.    
-* Quantitative analysis (including colocalisation).
+* Colocalisation, including Mander's and Pearson's
 
 
 # Charges
