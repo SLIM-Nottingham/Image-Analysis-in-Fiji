@@ -1,6 +1,6 @@
 # **Introduction to Image Analysis in Fiji**
 
-**The next workshop is scheduled for March 10th/11th 2020.**
+**The next workshop is scheduled for 10th/11th March 2020.**
 
 This is a  2-day course specifically for staff, postdocs or PhD students based in the **School of Life Sciences**.
 
